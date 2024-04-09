@@ -1,2 +1,1 @@
-puts "Hello World"
-puts "#{1 + 1}"
+puts "Hello world 🌎"
