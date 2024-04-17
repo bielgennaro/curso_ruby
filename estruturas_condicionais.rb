@@ -13,7 +13,7 @@ end
 
 
 # Estrutura condicional if com unless
-  unless number <= 10 then
+unless number <= 10 then
   puts "O número é maior que 10"
   else
   puts "O número é menor ou igual a 10"
